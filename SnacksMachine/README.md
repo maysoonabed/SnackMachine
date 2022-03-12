@@ -9,7 +9,7 @@ asks to select another snack.
 
  
 ### UML Diagram
-![Alt text](/imgs/uml.png "UML")
+![Alt text](SnackMachine/SnacksMachine/imgs/uml.png "UML")
 ### Test case
-![Alt text](/imgs/test.png "Test")
+![Alt text](SnackMachine/SnacksMachine/imgs/test.png "Test")
  
